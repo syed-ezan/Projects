@@ -1,0 +1,4 @@
+.env
+node_modules
+
+// You can get all dependencies from package.json 
