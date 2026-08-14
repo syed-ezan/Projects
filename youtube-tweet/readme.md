@@ -9,6 +9,5 @@ Ultimately, this project is a robust backend system for a video-sharing and soci
 
 Keys to run server and send request:
 
-npm run dev to start the server
-<br>
+npm run dev to start the server \n
 use postman to send the request
